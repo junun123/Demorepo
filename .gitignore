@@ -1,0 +1,3 @@
+ignorable.txt
+*.log.txt
+logs/
