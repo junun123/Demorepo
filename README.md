@@ -15,3 +15,7 @@ As stated above the main purpose is to provide simple examples for git training 
 
 ## Deployment 
 Deployment can be done on any web server or even local file system.
+
+### Copywrite
+
+2020 Git.Training.
