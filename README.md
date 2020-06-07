@@ -7,3 +7,8 @@ This example is to show different parts of the gitrepository and various command
 ## U can maintain version inside git repo
 
 This is simple web project for showig how to use git.
+
+## Purpose :
+
+
+As stated above the main purpose is to provide simple examples for git training demo.
