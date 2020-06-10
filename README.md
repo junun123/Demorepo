@@ -20,4 +20,6 @@ Deployment can be done on any web server or even local file system.
 
 2020 Git.Training.
 
-## adding extra data 
+## adding extra data
+
+## Adding conflict data from Master branch 
