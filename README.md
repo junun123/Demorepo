@@ -24,3 +24,5 @@ Deployment can be done on any web server or even local file system.
 ## Adding conflict data from bigtrouble branch
 
 ## Adding conflict data from Master branch 
+## Changes added by developer1
+
