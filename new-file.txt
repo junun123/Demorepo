@@ -1,3 +1,5 @@
 new file created
 
 adding changes for stash
+
+adding changes for stashing example
